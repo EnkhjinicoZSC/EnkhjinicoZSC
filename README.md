@@ -11,10 +11,8 @@ I'm interested in web development and AI. I love to explore new technologies and
 - **Interests**: Machine Learning, Web Development, Automation, AI, Blockchain
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Enkhjin (Nico) Gankhuyag](www.linkedin.com/in/nico-gankhuyag)
-
-  
-- **Email**: [enkhjinico@gmail.com]("mailto:enkhjinico@gmail.com")
+- **LinkedIn**: [www.linkedin.com/in/nico-gankhuyag](https://www.linkedin.com/in/nico-gankhuyag)
+- **Email**: [enkhjinico@gmail.com](mailto:enkhjinico@gmail.com)
 
 ## 📚 I’m currently learning
 - Deepening my knowledge in Web Development, specifically React, Vue, Angular, and many more stacks.
