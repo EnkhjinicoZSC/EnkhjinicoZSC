@@ -22,3 +22,4 @@ I'm interested in web development and AI. I love to explore new technologies and
 ## 🤝 How to Contribute
 I'm always open to collaborating on projects and innovative/disruptive ideas. Feel free to fork the projects you're interested in and submit a pull request. If you have any questions or want to discuss ideas, send me an email or reach out on social media.
 
+```
